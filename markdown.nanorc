@@ -1,0 +1,9 @@
+syntax "markdown" "\.(md|MD)$"
+
+color brightred "#*"
+
+color white "^\* "
+
+color red "\*\*"
+
+color green "````*"
